@@ -41,7 +41,7 @@ songs: The songs file contains the "songs" used for this album.
 
 **Getting Started**
 
-Clone the repository: git clone https://github.com/your-yvngnut/musicPlayer-html-css-js.git
+Clone the repository: git clone https://github.com/yvngnut/musicPlayer-html-css-js.git
 
 Open index.html in your web browser.
 
