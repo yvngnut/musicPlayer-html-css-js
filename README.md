@@ -5,7 +5,7 @@ web-built in music player using html, css and javascript
 
 **Overview**
 
-This is a simple music player project built with HTML, CSS, and JavaScript. It allows users to play, pause, skip, and control the volume of audio tracks. 
+This is a simple music player project built with HTML, CSS, and JavaScript. It allows users to play, pause, skip, and control the time progress of audio tracks. 
 The player has a sleek and responsive design, making it easy to use on desktop.
 
 **Features**
