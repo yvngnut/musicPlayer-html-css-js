@@ -52,3 +52,17 @@ Click the play/pause button to control playback.
 
 Use the next/previous buttons to navigate through the playlist.
 
+**Disclaimer**
+
+This music player project is created for educational and demonstration purposes only. The audio tracks used in this project are for illustrative purposes and do not belong to the project owner. All rights to the respective songs, including but not limited to copyright, are owned by their respective copyright holders.
+
+Disclaimer:
+
+- The project owner does not claim any ownership of the audio or image content.
+- The audio tracks and images are used solely for the purpose of showcasing the functionality of the music player.
+- If you intend to use this project for any purpose other than personal or educational use, it is your responsibility to obtain the necessary permissions and rights from the copyright holders of the audio tracks.
+
+Please support the artists and obtain the proper licenses if you plan to use this project with copyrighted music in a public or commercial setting.
+
+Thank you for understanding.
+
